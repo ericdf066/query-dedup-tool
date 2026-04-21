@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/ericdf066/query-dedup-tool?style=flat-square)](https://github.com/ericdf066/query-dedup-tool/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](#)
+
 A practical tool for **query deduplication and similarity grouping**, designed for dataset cleaning, benchmark construction, search-log consolidation, and question pool management.
 
 It supports:
