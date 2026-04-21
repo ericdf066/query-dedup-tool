@@ -231,6 +231,14 @@ These files help new users quickly understand the input/output format and test t
 
 ---
 
+## Example Output
+
+| Original Query | Representative Query |
+|---|---|
+| 北京天气怎么样！ | 北京天气怎么样 |
+| 北京今天天气怎么样 | 北京天气怎么样 |
+| 如何快速掌握 Python | Python 入门怎么学 |
+
 ## Output files
 
 ### `deduped_queries.csv`
