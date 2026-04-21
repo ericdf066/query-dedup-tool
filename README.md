@@ -95,3 +95,7 @@ Input
 → Near-text deduplication (SimHash)
 → Local semantic grouping (TF-IDF)
 → Result export
+
+## Screenshot
+
+![Query Dedup Tool GUI](gui-home.png)
